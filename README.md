@@ -1,12 +1,6 @@
-# StegoCrypt
+# CryptoByte
 
-<h3>Implementation of combined steganography and cryptography vigenere cipher, caesar cipher and converting periodic tables for securing secret message</h3>
-
-Contributor :
-
-- Fadhlan Syahran Jungjungan
-- Elma Saskia Mawardi
-- Erica Dyah Ayu Septiani
+<h3>Secure Message Transmission through Integrated Steganography, Cryptography, and Periodic Table Encoding</h3>
 
 How to Run :
 
